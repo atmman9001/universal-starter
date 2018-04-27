@@ -1,7 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
-    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
   </component>
 </application>
