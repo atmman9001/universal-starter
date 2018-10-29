@@ -8,6 +8,7 @@
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="component" type="SCSS" />
     </extensionMap>
   </component>
 </application>
