@@ -1,8 +1,13 @@
 <code_scheme name="Default" version="173">
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_PUBLIC_MODIFIER" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="BLANK_LINES_AROUND_FUNCTION" value="2" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
