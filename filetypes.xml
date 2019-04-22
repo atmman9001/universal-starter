@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="cs-db-prod" type="PLAIN_TEXT" />
       <mapping pattern="cs-db" type="PLAIN_TEXT" />
+      <mapping pattern="asdasd" type="PLAIN_TEXT" />
       <mapping pattern="list of urls" type="PLAIN_TEXT" />
       <mapping pattern="100" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
