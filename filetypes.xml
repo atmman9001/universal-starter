@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="cs-db-prod" type="PLAIN_TEXT" />
       <mapping pattern="cs-db" type="PLAIN_TEXT" />
       <mapping pattern="asdasd" type="PLAIN_TEXT" />
